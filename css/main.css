@@ -1,0 +1,85 @@
+ body {
+     text-align: center;
+     font-family: 'Crete Round', serif;
+     background: url('/ex-book-shop/img/mount.png') no-repeat;
+     background-size: 100%;
+ }
+
+
+ body.rtl {
+    direction: rtl;
+}
+
+ .table {
+     background-color: rgba(158, 112, 150, 0.87);
+     margin: 0 auto;
+ }
+
+ th, td {
+     border: solid black 1px;
+     color: rgb(245, 204, 204);
+ }
+
+ td {
+     width: 100px;
+ }
+
+ .create-btn {
+     margin-bottom: 20px;
+     border-radius: 5px;
+     font-family: 'Crete Round', serif;
+     font-size: 15px;
+ }
+
+ img {
+     width: 120px;
+     height: 160px;
+ }
+
+ .bookd-name {
+     width: 150px;
+ }
+
+ .read-btn, .delete-btn, .update-btn {
+     border-radius: 5px;
+     font-family: 'Crete Round', serif;
+     font-size: 15px;
+ }
+
+ h1 {
+     color: white;
+ }
+
+ button:hover {
+     background: rgb(245, 204, 204);
+ }
+
+ .down, .up, .close {
+     border-radius: 5px;
+     font-size: 15px;
+     font-family: 'Crete Round', serif;
+ }
+
+ .book-rate {
+     margin-bottom: 20px;
+ }
+
+ .modal {
+     background-color: white;
+     padding: 10px;
+ }
+
+ .lang-select {
+     margin-bottom: 10px;
+ }
+
+ .books-container{
+     cursor: pointer;
+ }
+
+ .next-btn{
+    margin-bottom: 20px;
+    border-radius: 5px;
+    font-family: 'Crete Round', serif;
+    font-size: 15px;
+ }
