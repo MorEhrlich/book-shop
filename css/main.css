@@ -1,7 +1,7 @@
  body {
      text-align: center;
      font-family: 'Crete Round', serif;
-     background: url('/ex-book-shop/img/mount.png') no-repeat;
+     background: url('../img/mount.png') no-repeat;
      background-size: 100%;
  }
 
